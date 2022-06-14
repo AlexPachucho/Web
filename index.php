@@ -42,7 +42,7 @@
 	</style>
 </head>
 <body bgcolor="#E8E8E8">
-	<h1>Menu Principal</h1>
+	<h1>Menu Principal web</h1>
 	<div align="center"><img src="pagina web.jpg" width="200" height="200"/></div><br>
 	<center><a class="menu" href="lista_estudiantes.php">Estudiantes</a></center><br>
 	<center><a class="menu" href="lista_usuarios.php">Usuarios</a></center>
